@@ -12,3 +12,4 @@ python weather.py
 ```
 
 Для демонстрации задания на GitHub сначала закоммитьте только `main.py`, `.gitignore` и `README.md` в `main`, а затем добавьте `weather.py` в `feature` (см. `ИНСТРУКЦИЯ.md`).
+Git pull synchronization test.
