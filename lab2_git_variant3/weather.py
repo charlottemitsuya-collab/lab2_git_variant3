@@ -16,3 +16,7 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+print("\nДополнительная информация о погоде")
+
+humidity = 65
+print(f"Влажность воздуха: {humidity}%")
